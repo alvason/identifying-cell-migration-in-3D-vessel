@@ -4,8 +4,8 @@ This repository contains code for implementing vessel segmentation method initia
 
 ## Overview
 ### Segmenting vessel under various fluid dynamics
-![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/figure/vessel_raw_v000.jpg)
-![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/figure/vessel_segment_v000.jpg)
+![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/figure/vessel_raw_v000.png)
+![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/figure/vessel_segment_v000.png)
 
 ## Installation
 ### Prerequisites
@@ -21,9 +21,9 @@ The required Python libaries are:
 clone git https://github.com/alvason/identifying_neurite_by_RRS.git
 ```
 ### Examples
-#### [Demo 1 of vessel3D code in Jupyter-notebook](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_seeding_map/AlvaHmm_demo_random_reaction_seed_by_blob_map.ipynb)
-#### [Demo 2 of vessel3D code in Jupyter-notebook](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_seeding_map/AlvaHmm_demo_random_reaction_seed_by_random_map.ipynb)
-![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_seeding_map/figure/AlvaHmm_demo_random_reaction_seed_by_blob_map.png)
-![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_seeding_map/figure/AlvaHmm_random_map_vs_blob_map.png)
+#### [Demo 1 of vessel3D code in Jupyter-notebook](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/code/migration3d_pbmc_cell_v002.ipynb)
+#### [Demo 2 of vessel3D code in Jupyter-notebook]https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/code/migration3d_pbmc_cell_v002.ipynb)
+![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/figure/inside_vessel_v000.png)
+![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/figure/outside_vessel_v000.png)
 ## Contact and more information
 This repository is maintained by [@alvason](https://github.com/alvason).
