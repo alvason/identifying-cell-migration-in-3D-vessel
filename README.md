@@ -18,7 +18,7 @@ The required Python libaries are:
 
 ### Getting started
 ```
-clone git https://github.com/alvason/identifying_neurite_by_RRS.git
+clone git https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation.git
 ```
 ### Examples
 #### [Demo 1 of vessel3D code in Jupyter-notebook](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/code/migration3d_pbmc_cell_v002.ipynb)
