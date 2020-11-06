@@ -22,7 +22,7 @@ clone git https://github.com/alvason/identifying_cell_migration_by_vessel_segmen
 ### Examples
 #### [Demo 1 of vessel3D code in Jupyter-notebook](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/code/migration3d_pbmc_cell_v001.ipynb)
 #### [Demo 2 of vessel3D code in Jupyter-notebook](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/code/migration3d_pbmc_cell_v002.ipynb)
-![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/main/figure/inside_vessel_v000.png)
 ![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/main/figure/outside_vessel_v000.png)
+![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/main/figure/inside_vessel_v000.png)
 ## Contact and more information
 This repository is maintained by [@alvason](https://github.com/alvason).
