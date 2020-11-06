@@ -4,6 +4,7 @@ This repository contains code for implementing vessel segmentation method initia
 
 ## Overview
 ### Segmenting vessel under various fluid dynamics
+![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/figure/AlvaHmm_demo_edge_detection_selected_seeding_selected_seed_window0.jpg)
 ![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/figure/vessel_raw_v000.png)
 ![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/master/figure/vessel_segment_v000.png)
 
