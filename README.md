@@ -1,6 +1,8 @@
 # identifying cell migration by 3D vessel segmentation
 This repository contains code for implementing vessel segmentation method initially described in the following paper:
 
+(a manuscript submmitted to <https://www.nature.com/xxxxx>)
+
 (is still working on this repository, a new package will be ready soon...)
 
 ## Overview
