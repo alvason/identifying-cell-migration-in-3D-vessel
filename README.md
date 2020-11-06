@@ -4,8 +4,7 @@ This repository contains code for implementing vessel segmentation method initia
 
 ## Overview
 ### Segmenting vessel under various fluid dynamics
-![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/main/figure/vessel_raw_v000.png)
-![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/main/figure/vessel_segment_v000.png)
+![](https://github.com/alvason/identifying_cell_migration_by_vessel_segmentation/blob/main/vessel_segmentation_v000)
 
 ## Installation
 ### Prerequisites
